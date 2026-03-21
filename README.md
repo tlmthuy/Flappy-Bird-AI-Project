@@ -2,6 +2,7 @@
 Ứng dụng thuật toán NEAT (Genetic Algorithm kết hợp Neural Network) để huấn luyện một quần thể chim tự học cách vượt qua các chướng ngại vật trong trò chơi Flappy Bird mà không cần sự can thiệp của con người.
 
 📌 **Thành phần dự án**
+
 • Flappy X (Android): Ứng dụng di động được xây dựng trên Android Studio.
 
 • AI Trainer (Python): Sử dụng thuật toán NEAT (NeuroEvolution of Augmenting Topologies) để huấn luyện chim vượt qua chướng ngại vật.
@@ -30,5 +31,5 @@
 
 • Tools: Android Studio, Git, GitHub Desktop.
 
-📌 Kết quả huấn luyện
+📌 **Kết quả huấn luyện**
 Sau khoảng 2-5 thế hệ (Generations), mô hình tìm ra "cá thể ưu tú" có khả năng chơi vô hạn mà không va chạm. 
