@@ -36,3 +36,5 @@
 📌 **Kết quả huấn luyện**
 
 Sau khoảng 2-5 thế hệ (Generations), mô hình tìm ra "cá thể ưu tú" có khả năng chơi vô hạn mà không va chạm. 
+<img width="434" height="488" alt="image" src="https://github.com/user-attachments/assets/be4fa7ef-81e1-4317-bd46-0c94bbed21d0" />
+
